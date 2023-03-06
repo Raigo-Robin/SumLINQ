@@ -296,10 +296,10 @@ namespace LINQ
 
             Console.WriteLine("-------------------------------------------------------------");
             Console.WriteLine("Täisealiste isikute koondvanus");
-           //Otsib läbi PeopleListi ning liidab kokku kõik 18+ inimeste vanused
+           
             
 
-            //Loeb kokku kõik 18+ inimesed liidab nende vanused ning salvestab kui palju neid on
+            //Loeb kokku kõik 18+ inimesed ning liidab nende vanused
             var sumAdults = 0;
             var numAdults = 0;
 
